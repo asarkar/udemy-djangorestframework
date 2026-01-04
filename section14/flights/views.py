@@ -67,4 +67,4 @@ class ReservationViewSet(ModelViewSet[Reservation]):
     def get_serializer_class(self) -> type[BaseSerializer[Reservation]]:
         if self.action == "create":
             return ReservationCreateSerializer
-        return ReservationSerializer
+        return super().get_serializer_class()
