@@ -11,18 +11,18 @@ Comprehensive unit tests have been added for each section, which the course does
 2. Introduction
 3. Software Setup
 4. REST in Action
-5. Function Based Views and Serializers
-6. Class Based Views
-7. Mixins
-8. Generic Views
-9. ViewSets
-10. Nested Serializers
-11. Pagination
-12. Filtering
-13. Security
-14. Flight Reservation API
-15. Validations
-16. Token Auth
+5. [Function Based Views and Serializers](section05)
+6. [Class Based Views](section06)
+7. [Mixins](section07)
+8. [Generic Views](section08)
+9. [ViewSets](section09)
+10. [Nested Serializers](section10)
+11. [Pagination](section11)
+12. [Filtering](section12)
+13. [Security](section13)
+14. [Flight Reservation API](section14)
+15. [Validations](section15)
+16. [Token Auth](section16)
 17. Create an Angular Frontend
 18. Wrap Up
 
